@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm Erdi (/ˈɛɹdˌiː/). As a software engineer, an AI researcher, and an entrepreneur, my approach to problem-solving and innovation is a deeply personal and iterative journey, combining first principles thinking, data-driven decision-making, and a touch of minimalism.
+I'm Erdi (/ˈɛɹdˌiː/). I'm a software engineer, an AI researcher, and an entrepreneur. Over the years of my journey, I've tried various approaches to problem-solving and innovation. Currently, I favor combining first principles thinking, data-driven decision-making, and a touch of minimalism.
 
 1. **Foundation with First Principles**: My innovation journey always starts with a simple ritual: a cup of coffee, no distractions, and an A3 paper sprawling in front of me. Here, I dive deep, asking the kind of questions that peel back the layers of complexity. This process isn’t just about understanding the problem; it’s about redefining it. It's during these long, uninterrupted sessions that my most profound insights emerge, like the time I realized that at the heart of an educational app I was developing, was not technology, but user engagement.
 
